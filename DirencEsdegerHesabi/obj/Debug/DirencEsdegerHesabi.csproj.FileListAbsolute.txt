@@ -1,0 +1,10 @@
+C:\Users\rojda\source\repos\DirencEsdegerHesabi\DirencEsdegerHesabi\bin\Debug\DirencEsdegerHesabi.exe.config
+C:\Users\rojda\source\repos\DirencEsdegerHesabi\DirencEsdegerHesabi\bin\Debug\DirencEsdegerHesabi.exe
+C:\Users\rojda\source\repos\DirencEsdegerHesabi\DirencEsdegerHesabi\bin\Debug\DirencEsdegerHesabi.pdb
+C:\Users\rojda\source\repos\DirencEsdegerHesabi\DirencEsdegerHesabi\obj\Debug\DirencEsdegerHesabi.csprojAssemblyReference.cache
+C:\Users\rojda\source\repos\DirencEsdegerHesabi\DirencEsdegerHesabi\obj\Debug\DirencEsdegerHesabi.Form1.resources
+C:\Users\rojda\source\repos\DirencEsdegerHesabi\DirencEsdegerHesabi\obj\Debug\DirencEsdegerHesabi.Properties.Resources.resources
+C:\Users\rojda\source\repos\DirencEsdegerHesabi\DirencEsdegerHesabi\obj\Debug\DirencEsdegerHesabi.csproj.GenerateResource.cache
+C:\Users\rojda\source\repos\DirencEsdegerHesabi\DirencEsdegerHesabi\obj\Debug\DirencEsdegerHesabi.csproj.CoreCompileInputs.cache
+C:\Users\rojda\source\repos\DirencEsdegerHesabi\DirencEsdegerHesabi\obj\Debug\DirencEsdegerHesabi.exe
+C:\Users\rojda\source\repos\DirencEsdegerHesabi\DirencEsdegerHesabi\obj\Debug\DirencEsdegerHesabi.pdb
